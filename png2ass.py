@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# Command line for conversion: png2ass.py M10_scaled.png --start-time 0:00:10.00 --with-ass-header --text-prefix "{\fad(500,500)}" > PM-M10.ass
-
 import argparse
 from datetime import timedelta
 import re
